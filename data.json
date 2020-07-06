@@ -31,6 +31,14 @@
             "content":"博客弄了一个留言板，用了gitment，npm引入之后，只需要自己使用vue的自定义指定，然后实例化组件即可）",
             "imgurl":"data/01.jpg",
             "author":"inory"
+        },
+        {
+            "id":"4",
+            "title":"日常吐槽",
+            "time":"2019-03-29",
+            "content":"过几天弄个音乐播放器好了~，我看看应该怎么弄，网易的nodeJS需要服务器，估计不太行，看看有没有什么办法弄个在线的",
+            "imgurl":"data/01.jpg",
+            "author":"inory"
         }
     ]
 }
