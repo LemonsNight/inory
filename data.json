@@ -21,6 +21,14 @@
             "title":"git更新代码",
             "time":"2019-03-20",
             "content":"主要的指令有3个：git add . / git commit -m '你的更新内容MD' / git push origin master（这一步会提示你输入账号密码）",
+            "imgurl":"data/01.jpg",
+            "author":"inory"
+        },
+        {
+            "id":"3",
+            "title":"今天也是一个美好的日子",
+            "time":"2019-03-25",
+            "content":"博客还不完整，不过还剩下一些特效，打算全部自己手写吧，插件感觉不太友好",
             "imgurl":"data/02.jpg",
             "author":"inory"
         }
